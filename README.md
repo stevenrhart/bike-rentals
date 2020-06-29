@@ -17,4 +17,4 @@ The primary questions answered by the analysis:
 
 Enjoy!
 
-[Check out the notebook](./notebooks/"Estimating Covid-19 Impacts on Bike Share Program Revenue.ipynb")
+[Check out the notebook](./notebooks/citibike_revenue_estimate.ipynb)
