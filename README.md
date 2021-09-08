@@ -1,4 +1,4 @@
-# Exploring Bike Rental Data
+# Bike Rental Profitability in the Time of Covid
 
 ## Introduction
 For this project, I compared data between 2019 and 2020 to investigate the impact of Covid-19 on bike share program revenue for Citi Bike in NYC. Given that the June data was not yet available (at the time of writing), the analysis focuses on the period between January and May for both 2019 and 2020 (12+ million rows of data).
